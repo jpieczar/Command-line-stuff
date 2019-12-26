@@ -1,5 +1,5 @@
 To delete all the DS_Store files in a particular directory and all
 of its sub-directories. Use the below command.
 	$> find . -name ".DS_Store" -delete
-This also works for outer siles. Simply replace .DS_Store with the
+This also works for outer files. Simply replace .DS_Store with the
 filename.
